@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "agent-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "ibara1454/agent-marketplace"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "commit-commands@claude-plugins-official": true,
+    "context7@claude-plugins-official": true
+  }
+}
