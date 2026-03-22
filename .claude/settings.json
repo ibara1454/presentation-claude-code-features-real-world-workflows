@@ -1,4 +1,9 @@
 {
+  "enabledPlugins": {
+    "commit-commands@claude-plugins-official": true,
+    "context7@claude-plugins-official": true,
+    "gh-workflow@agent-marketplace": true
+  },
   "extraKnownMarketplaces": {
     "agent-marketplace": {
       "source": {
@@ -6,9 +11,5 @@
         "repo": "ibara1454/agent-marketplace"
       }
     }
-  },
-  "enabledPlugins": {
-    "commit-commands@claude-plugins-official": true,
-    "context7@claude-plugins-official": true
   }
 }
