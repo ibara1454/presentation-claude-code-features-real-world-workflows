@@ -1,0 +1,28 @@
+{
+  "name": "presentation-claude-code-features-real-world-workflows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibara1454/presentation-claude-code-features-real-world-workflows.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ibara1454/presentation-claude-code-features-real-world-workflows/issues"
+  },
+  "homepage": "https://github.com/ibara1454/presentation-claude-code-features-real-world-workflows#readme",
+  "dependencies": {
+    "@slidev/cli": "^52.14.1",
+    "@slidev/theme-default": "^0.25.0",
+    "@slidev/theme-seriph": "^0.25.0"
+  }
+}
