@@ -328,7 +328,11 @@ Hooks run automated checks whenever Claude takes an action. PostToolUse fires af
 
 </div>
 
-> **Use all three together:** Rules set standards · Hooks enforce them · Skills add capabilities
+<div class="mt-6 px-4 py-3 rounded-lg" style="background: rgba(96, 165, 250, 0.08); border-left: 3px solid #60a5fa;">
+
+**Use all three together:** Rules set standards · Hooks enforce them · Skills add capabilities
+
+</div>
 
 
 <!--
